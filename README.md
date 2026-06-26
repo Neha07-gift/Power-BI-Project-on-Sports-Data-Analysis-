@@ -1,26 +1,36 @@
 **# Power-BI-Project-on-Sports-Data-Analysis-**
 
-**Objective**
+**Objective:**
 The primary objective of this project is to provide meaningful insights into sports data by visualizing important metrics such as total matches played, total points scored, player performance, match trends, and geographical player distribution.   
 
-**Project Overview**
+**Project Overview:**
 The Ultimate Sports Analytics Dashboard is an interactive Power BI dashboard developed to analyze player performance, team statistics, match outcomes, and country-wise participation across multiple sports. The dashboard enables users to monitor key performance indicators (KPIs), compare player performance, identify trends, and interactively filter data using slicers.
 
-**Dataset**
+**Dataset:**
 The dataset contains information related to sports matches and includes the following attributes:
 
 Player Name
+
 Team
+
 Sport
+
 Country
+
 Match Date
+
 Match Result
+
 Points/Goals
+
 Minutes Played
+
 Assists
+
 Position
 
-**Dashboard Features**
+
+**Dashboard Features:**
 1. KPI Cards:
 
 The dashboard contains four KPI cards to summarize important statistics:
@@ -82,7 +92,7 @@ Match Date
 
 These slicers make the dashboard interactive and allow customized analysis.
 
-**Tools & Technologies**
+**Tools & Technologies:**
 
 Microsoft Power BI Desktop
 Power Query
@@ -90,7 +100,7 @@ DAX (Data Analysis Expressions)
 Data Modeling
 Interactive Visualizations
 
-**Learning Outcomes**
+**Learning Outcomes:**
 
 Through this project, I gained practical experience in:
 
@@ -100,11 +110,11 @@ Designing business-friendly reports.
 Building dynamic visualizations.
 Presenting analytical insights effectively.
 
-**Author**
+**Author:**
 
 Neha A
 Aspiring Data Analyst | Power BI | SQL | Excel
 
-**Conclusion**
+**Conclusion:**
 
 This dashboard demonstrates how Power BI can transform raw sports data into meaningful insights through interactive visualizations and business intelligence techniques. It serves as an effective tool for analyzing player performance, match statistics, and sports trends, helping users make informed decisions based on data.
