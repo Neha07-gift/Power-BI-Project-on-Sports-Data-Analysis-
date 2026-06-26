@@ -1,2 +1,3 @@
 # Power-BI-Project-on-Sports-Data-Analysis-
 The primary objective of this project is to provide meaningful insights into sports data by visualizing important metrics such as total matches played, total points scored, player performance, match trends, and geographical player distribution.   📂
+The Ultimate Sports Analytics Dashboard is an interactive Power BI dashboard developed to analyze player performance, team statistics, match outcomes, and country-wise participation across multiple sports. The dashboard enables users to monitor key performance indicators (KPIs), compare player performance, identify trends, and interactively filter data using slicers.
