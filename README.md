@@ -100,9 +100,13 @@ These slicers make the dashboard interactive and allow customized analysis.
 **Tools & Technologies:**
 
 Microsoft Power BI Desktop
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Data Modeling
+
 Interactive Visualizations
 
 
@@ -111,15 +115,20 @@ Interactive Visualizations
 Through this project, I gained practical experience in:
 
 Creating interactive dashboards using Power BI.
+
 Writing DAX measures for KPI calculations.
+
 Designing business-friendly reports.
+
 Building dynamic visualizations.
+
 Presenting analytical insights effectively.
 
 
 **Author:**
 
 Neha A
+
 Aspiring Data Analyst | Power BI | SQL | Excel
 
 
