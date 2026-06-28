@@ -65,29 +65,45 @@ These slicers update every visualization dynamically for detailed analysis.
 **Tools & Technologies:**
 
 Microsoft Power BI Desktop
+
 Power Query
+
 DAX (Data Analysis Expressions)
+
 Data Modeling
+
 Interactive Visualizations
 
 **Key Insights:**
 
 Identifies the highest-scoring players.
+
 Compares performance across different sports.
+
 Tracks monthly scoring trends.
+
 Displays global player distribution.
+
 Enables interactive analysis using multiple filters.
+
 Provides quick business insights through KPI cards.
 
 **Skills Demonstrated:**
 
 Data Cleaning
+
 Data Transformation
+
 Data Modeling
+
 DAX Measures
+
 KPI Design
+
 Interactive Dashboard Development
+
 Data Visualization
+
 Business Intelligence Reporting
 
 **Learning Outcomes:**
@@ -95,9 +111,13 @@ Business Intelligence Reporting
 Through this project, I gained hands-on experience in:
 
 Creating professional Power BI dashboards
+
 Building dynamic DAX measures
+
 Designing interactive reports
+
 Developing business-focused visualizations
+
 Presenting analytical insights effectively
 
 **Author:**
